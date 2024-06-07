@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 echo "This School is so cool!"
 echo "School"
+=======
+echo "This School is so cool!"
+echo "School"
+>>>>>>> update_script
